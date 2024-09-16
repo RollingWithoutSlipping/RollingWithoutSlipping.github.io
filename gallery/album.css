@@ -99,14 +99,14 @@ main p {
 }
 
 .photo img {
-    width:100%;
+    width:auto;
     max-width: 800px;
     min-width: 200px;
     height:auto;
     border-radius: 10px;
 }
 
-.photo p {
+.caption {
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin-top: 10px;
     font-size: 14px;
@@ -114,6 +114,12 @@ main p {
     font-weight: bold;
     text-align: center;
     font-size: 1.5rem;
+}
+
+
+.video-content {
+    width: auto;
+    max-width: 800px;
 }
 
 

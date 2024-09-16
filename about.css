@@ -76,13 +76,13 @@ main {
     padding: 20px;
 }
 
-.about {
+.wrapper {
     display:flex;
     align-items:center;
 }
 
 main p {
-    font-size:1.5rem;
+    font-size:1rem;
     overflow-wrap: break-word;
     margin-left: 15%;
     margin-right:5%;
